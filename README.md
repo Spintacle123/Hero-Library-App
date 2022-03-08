@@ -1,2 +1,2 @@
 # Hero-Library-App
-Created this app to try and pracrice developing mobile app using reac js by integratting (https://superheroapi.com/) API 
+Created this app to try and practice developing mobile app using react js by integratting (https://superheroapi.com/) API 
